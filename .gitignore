@@ -40,3 +40,5 @@ build/
 /.idea/encodings.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/.idea/leetcode/editor.xml
+/.idea/leetcode/statistics.xml
