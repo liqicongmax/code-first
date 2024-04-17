@@ -115,10 +115,6 @@ class Solution {
         }
     }
 
-    public List<List<Integer>> levelOrder2(TreeNode root) {
-
-    }
-
 
 }
 //leetcode submit region end(Prohibit modification and deletion)
